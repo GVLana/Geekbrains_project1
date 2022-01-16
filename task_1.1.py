@@ -13,5 +13,3 @@ minutes = seconds // seconds_in_minute
 seconds = seconds - (minutes * seconds_in_minute)
 
 print(f"{days} дн {hours} час {minutes} мин {seconds} сек.")
-
-end
