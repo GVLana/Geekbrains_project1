@@ -10,3 +10,4 @@ for i in range(1, 101):
         print(f"{i} процента.")
     else:
         print(f"{i} процентов.")
+END
